@@ -16,7 +16,7 @@ https://github.com/Archangel15520/toib3
 <details>
   <summary>Нажмите, чтобы развернуть</summary>
 
-ссылка на первую практику в github:
+ссылка на вторую практику в github:
  
 https://github.com/Archangel15520/sssl2
 
