@@ -4,7 +4,24 @@
 
 <details>
   <summary>Нажмите, чтобы развернуть</summary>
+
+ссылка на первую практику в github:
  
 https://github.com/Archangel15520/toib3
+
+</details>
+
+## Отчет по практической работе №2
+
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
+
+ссылка на первую практику в github:
+ 
+https://github.com/Archangel15520/sssl2
+
+ссылка на работу в google colab:
+
+https://colab.research.google.com/drive/1ynWp6sP8uivpBwBmv1kqL7Ra6v75zpM4?usp=drive_link
 
 </details>
