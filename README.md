@@ -47,3 +47,14 @@ https://github.com/Archangel15520/sssl3/tree/main
 https://github.com/Archangel15520/sssl4/tree/main
 
 </details>
+
+## Отчет по практической работе №5
+
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
+
+ссылка на пятую практику в github:
+ 
+https://github.com/Archangel15520/sssl5/tree/main
+
+</details>
